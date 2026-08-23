@@ -1,0 +1,4 @@
+setuptools~=83.0.0
+python-dotenv~=1.2.2
+mpmath~=1.4.1
+tabulate~=0.10.0
